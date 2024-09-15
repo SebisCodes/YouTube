@@ -13,6 +13,7 @@ import javax.swing.JFrame;
  * Github: https://github.com/sebiscodes
  * Instagram: https://www.instagram.com/sebisprojects/
  * Youtube: https://www.youtube.com/@sebisprojects
+ * Linktree: https://linktr.ee/sebisprojects
  */
 
 public class Main {
