@@ -46,8 +46,8 @@ public class Main {
 		long myLong = 8546949345592303459L; //8-byte-size very long integer
 
 		// Floatingpoint Numbers
-		float myFloat = 4.2560492f; //4-byte-size floating point number with 7 digits (the last one is unexact!!!)
-		double myDouble = 7.759385940284935d; //8-byte-size floating point number with 15 digits (the last one is unexact!!!)
+		float myFloat = 4.2560492f; //4-byte-size floating point number with 6-7 digits (the last one is unexact!!!)
+		double myDouble = 7.7593859402849353d; //8-byte-size floating point number with 15-16 digits (the last one is unexact!!!)
 		
 		// Character
 		char myCharacter = 'B'; //2-byte-size character (see ASCII-table)
